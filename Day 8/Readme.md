@@ -18,7 +18,7 @@
        The input string is not pallindrome: bghsj
 
       
-## 5.3 YACC program that accepts string ending with 0 and 1
+## 8.3 YACC program that accepts string ending with 0 and 1
     Sample Input -
       100
       101
