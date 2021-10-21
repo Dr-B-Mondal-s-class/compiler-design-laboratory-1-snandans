@@ -11,7 +11,7 @@
        ramu is not a keyword
        
        
-## 4.2 Lex Program to count no of vowels and consonants in input stream 
+## 4.2 Lex Program to identify operator  
     Sample Input -
        +
        /
