@@ -5,9 +5,9 @@
        123
        23hfjd
     Sample Output -
-       Letter only
        Digit only
        Letter only
+       Digit only
        Invalid Format
        
        
