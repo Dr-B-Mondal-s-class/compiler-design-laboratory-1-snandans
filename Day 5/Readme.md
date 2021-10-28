@@ -6,7 +6,7 @@
        Words Count: 2
        Digits Count: 4
        Numbers Count: 1
-       Spaces Count: 3
+       Spaces Count: 2
        Operators Count: 3 
        
        
